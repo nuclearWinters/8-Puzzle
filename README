@@ -1,4 +1,7 @@
-8 puzzle
+Rompecabezas de 8 piezas
 ========
+Instrucciones: 
 
-8 piece sliding puzzle that uses the A* algorithm to solve it using a priority queue
+1. Descargue Git.
+2. Para descargar el projecto abra la linea de comandos y en una carpeta ejecute git clone https://github.com/nuclearWinters/8-Puzzle.git
+3. Para abrir el projecto solo abra el archivo puzzle.html en una pestaña de su navegador
